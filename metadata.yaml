@@ -1,4 +1,8 @@
 _repo: Self-Raised-Or-From-the-Depths_6376
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Southworth, Emma Dorothy Eliza Nevitte
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1307
     wikipedia: http://en.wikipedia.org/wiki/E._D._E._N._Southworth
 description: Sequel to Ishmael.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6376#Self-Raised-Or-From-the-Depths
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
